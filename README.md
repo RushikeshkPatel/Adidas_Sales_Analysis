@@ -81,7 +81,7 @@ It is designed to help stakeholders quickly identify trends, growth opportunitie
 - **Visualization Techniques:** Bar charts, line charts, maps, KPIs, tables
 
 ## 📸 Dashboard Preview
-![Adidas Dashboard](Analysis)
+![Adidas Dashboard](Analysis.png)
 
 ## 🚀 Outcomes
 - Built an **end-to-end sales performance dashboard**  
